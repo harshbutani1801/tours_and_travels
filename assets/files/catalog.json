@@ -1,0 +1,53 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Thailand",
+            "label": "New",
+            "noofTours": 18,
+            "rating": 4.3,
+            "image": "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Y2FuYWRhfGVufDB8MXwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+            "id": 2,
+            "name": "Canada",
+            "label": "Sale",
+            "noofTours": 33,
+            "rating": 4.5,
+            "image": "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Y2FuYWRhfGVufDB8MXwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+            "id": 3,
+            "name": "USA",
+            "label": "New",
+            "noofTours": 13,
+            "rating": 4.2,
+            "image": "https://images.unsplash.com/photo-1580909924261-36da0ad323ad?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDd8fHVzYXxlbnwwfDF8MHx8&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+            "id": 4,
+            "name": "London",
+            "label": "Sale",
+            "noofTours": 65,
+            "rating": 4.6,
+            "image": "https://images.unsplash.com/photo-1580909924261-36da0ad323ad?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDd8fHVzYXxlbnwwfDF8MHx8&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+            "id": 5,
+            "name": "Switzerland",
+            "label": "Sale",
+            "noofTours": 25,
+            "rating": 4.1,
+            "image": "https://images.unsplash.com/photo-1520962922320-2038eebab146?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bGFuZHNjYXBlc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+            "id": 6,
+            "name": "Venice",
+            "label": "New",
+            "noofTours": 20,
+            "rating": 4.7,
+            "image": "https://images.unsplash.com/photo-1552751118-d3cde54807de?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8dmVuaWNlfGVufDB8MXwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+        }
+        
+    ]
+}
